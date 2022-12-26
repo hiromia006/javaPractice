@@ -12,8 +12,6 @@ public class Human {
 
     float sum;
 
-
-
     public Human() {
 
     }
